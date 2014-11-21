@@ -5,8 +5,6 @@ Week 2 homework
 
 ![alt tag](Facebook_SignIn_Demo.gif)
 
-Time spent - 9hrs
-
 Completed Tasks - 
 
 Facebook login page
